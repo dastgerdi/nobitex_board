@@ -1,0 +1,2 @@
+* linguist-vendored
+*.objective-c linguist-vendored=false
