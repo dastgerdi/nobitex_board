@@ -1,2 +1,4 @@
-* linguist-vendored
-*.objective-c linguist-vendored=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.mm linguist-detectable=false
+*.M linguist-detectable=false
