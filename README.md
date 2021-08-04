@@ -2,7 +2,7 @@
 Simple BTC/IRT future market view based on Nobitex services
 
 ## About
-Nobitex is the largest Iran digital currency market. The app shows market stats, orders book and market trades of Nobitex BTC/IRT future market. This app is just for educational porpuses and it's not possible to trade with.
+Nobitex is the largest Iran digital currency market. The app shows market stats, orders book and market trades of Nobitex BTC/IRT future market. This is just for educational porpuses and it's not possible to trade with.
 
 ## Features
 * BTC/IRT market stats (last price, day high, day low and volume)
