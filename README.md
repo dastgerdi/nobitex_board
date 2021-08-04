@@ -18,4 +18,4 @@ Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 | Scree
 <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_1_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_2_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_3_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_4_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_5_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_6_s.jpg" width="335px">
 
 ## License
-The source code of this repository is released under MIT license.
+The source code of this repository is released under [MIT license](https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/LICENSE).
