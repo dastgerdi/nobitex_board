@@ -15,6 +15,6 @@ Nobitex is the largest Iran digital currency market. The app shows market stats,
 ## Screenshots
 Orders | Trades | Connection failed | Back online | Light mode | No network
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
-![Orders](https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_1.jpg) | Content from cell 2 | Content from cell 1 | Content from cell 2 | Content from cell 1 | Content from cell 2
+![Orders](https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshot_1_s.jpg) | Content from cell 2 | Content from cell 1 | Content from cell 2 | Content from cell 1 | Content from cell 2
 ## License
 The source code of this repository is released under MIT license.
