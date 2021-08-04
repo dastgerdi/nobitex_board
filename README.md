@@ -13,7 +13,7 @@ Nobitex is the largest Iran digital currency market. The app shows market stats,
 * Dark/Light mode
 
 ## Screenshots
-Orders | Trades | Connection failed | Back online | No network | Light mode
+Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 | Screenshot 6
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
 <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_1_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_2_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_3_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_4_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_5_s.jpg" width="335px"> | <img src="https://raw.githubusercontent.com/dastgerdi/nobitex_board/main/screenshots/screenshot_6_s.jpg" width="335px">
 
